@@ -1,7 +1,7 @@
 Esse projeto super criativo foi desenvolvido no bootcamp desenvolvimento web da Dra. Angela Yu
 Utilizamos HTML, CSS e mergulhamos no Bootstrap.
 
-![Captura de tela 2024-04-01 191920](https://github.com/Taize-It/tinder-cat/assets/143529957/5ba0cf24-c195-4295-b12d-7f8b1d68f025)
-![Captura de tela 2024-04-01 191902](https://github.com/Taize-It/tinder-cat/assets/143529957/74eb1b1a-00ab-42ff-90c5-a3239d4f1675)
-![Captura de tela 2024-04-01 191838](https://github.com/Taize-It/tinder-cat/assets/143529957/03f03962-9df4-4215-b669-805cb7e6695c)
-![Captura de tela 2024-04-01 191815](https://github.com/Taize-It/tinder-cat/assets/143529957/a42b1066-45ad-48c0-8f4c-034b3377bd5f)
+![Captura de tela 2024-04-01 191920](https://github.com/Taize-It/tinder-cat/assets/143529957/5928c529-57f7-4c53-b959-f2ab8b7f373c)
+![Captura de tela 2024-04-01 191902](https://github.com/Taize-It/tinder-cat/assets/143529957/c513bb20-f375-4fea-9683-0c398eb94ec5)
+![Captura de tela 2024-04-01 191838](https://github.com/Taize-It/tinder-cat/assets/143529957/ac4fa8a3-89c4-4e97-a09b-3d07a80c750f)
+![Captura de tela 2024-04-01 191815](https://github.com/Taize-It/tinder-cat/assets/143529957/81c49831-a899-49eb-bf4e-15cfb04a731a)
